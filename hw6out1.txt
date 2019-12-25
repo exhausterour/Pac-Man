@@ -1,0 +1,19 @@
+  01234
+0 #####
+1 # P.#
+2 #G  #
+3 #. H#
+4 #####
+
+Please enter your move [u(p), d(own), l(eft), or r(ight)]: r
+
+  01234
+0 #####
+1 #  P#
+2 #G  #
+3 #. H#
+4 #####
+
+Points: 1
+Ghost g: u 3 (2, 1) (1, 1) (1, 2) (1, 3)
+Ghost h: u 2 (3, 3) (2, 3) (1, 3)
